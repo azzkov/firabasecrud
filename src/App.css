@@ -1,0 +1,53 @@
+*{
+  background-color: #641dd8;
+}
+.App {
+
+  text-align: center;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+button {
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.5s;
+}
+
+button:hover {
+  background-color: #eb987f;
+}
+input{
+  font-size: 25px;
+  color: #fff;
+  width: 45px;
+  padding-left: 20px;
+}
+
+h1{
+  color: #FFF;
+}
